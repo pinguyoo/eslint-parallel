@@ -1,0 +1,8 @@
+{
+  "name": "eslint-parallel",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/pinguyoo/eslint-parallel.git",
+  "author": "pinguyoo <faintstaro@gmail.com>",
+  "license": "MIT"
+}
